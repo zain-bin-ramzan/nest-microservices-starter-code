@@ -1,5 +1,9 @@
 # Microservice Architecture with Nest.js
 
+This will be our backend architecture.
+
+![Project page](./images/backend-inf.png)
+
 First of all, let's understand a few concepts, such as:
 
 1. What is a typical monolithic project architecture?
